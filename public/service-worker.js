@@ -1,6 +1,6 @@
 const FILES_TO_CACHE = [
     '/',
-    'index.hmtl',
+    'index.html',
     '/style.css',
     '/index.js',
     'db.js'
